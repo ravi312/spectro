@@ -1,5 +1,5 @@
 //import("/home/anveshi/Downloads/receiver.stl");
-
+// this is the cuvette holder
 $fn=30;
 module box(box_x,box_y,box_z,box_t,win_y,win_z,cyl_r,cyl_h,cyl_t){
     difference(){
